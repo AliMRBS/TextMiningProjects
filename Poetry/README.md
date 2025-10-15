@@ -24,4 +24,3 @@ The model learns the style and structure of Persian text and produces new lines 
 
 ---
 
-## 📈 Example Generated Text
