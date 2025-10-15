@@ -3,12 +3,12 @@
 This repository contains projects focused on **Persian news text classification**.  
 It includes two main approaches:
 
-1. **Basic Classification** (`newscategoryrecognition_basic`):
+1. **Basic Classification** (`NewsCatRed_basic`):
    - Text preprocessing using **tokenization, stopword removal, stemming, and lemmatization** with Hazm and NLTK.  
    - Feature extraction using **TF-IDF**.  
    - Classification using **SVM** and **Gradient Boosting** models.  
 
-2. **Classification with Dimensionality Reduction** (`newscategoryrecognition_dimensionreduction`):
+2. **Classification with Dimensionality Reduction** (`NewsCatRed_dimensionreduction`):
    - Same text preprocessing as the basic approach.  
    - Feature extraction with **TF-IDF** followed by **dimensionality reduction** techniques such as **Factor Analysis**, **Kernel PCA**, and others.  
    - Classification using **SVM** and evaluation with standard metrics.  
